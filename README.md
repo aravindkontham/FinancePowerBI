@@ -49,5 +49,9 @@ Net Profit Margin = DIVIDE([Net Profit], [Total Revenue], 0) * 100
 ```
 OPEX Ratio = DIVIDE([OPEX], [Total Revenue], 0) * 100
 ```
+### Page 1:
+![Finance1-images-0](https://github.com/user-attachments/assets/e6073e8f-7e22-4d48-8dc7-294e7f5d97ef)
+### Page 2:
+![Finance1-images-1](https://github.com/user-attachments/assets/c8bd239d-3cad-4ada-946c-a1cabc353ba9)
 
 
